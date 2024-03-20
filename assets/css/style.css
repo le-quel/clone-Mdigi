@@ -1,0 +1,48 @@
+.navfirst{
+    text-decoration: none;
+    color: white;
+}
+.body{
+    background-color: #000f57;
+}
+.nav-second{
+
+}
+.title-1 {
+    position: relative;
+}
+
+.title-1 img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.title-1 > div {
+    position: absolute;
+    color: white;
+}
+.agency{
+   
+}
+.agency>h1{
+    font-variant: small-caps;
+    margin-top: 50px;
+    color: white;
+    letter-spacing: 0.3px;
+    text-shadow: 0 0 2px black;
+    padding-bottom: 0px;
+    border-bottom: 1px dotted gray;
+    margin: 0px;
+}
+.egency>p{
+    margin-top: 5px;
+    letter-spacing: 0.5px;
+}
+footer{
+    color: white;
+}
+li> a {
+    text-decoration: none;
+    color: white;
+}
